@@ -9,5 +9,8 @@
   "scripts": {
     "test": "jest --watch",
     "dev": "node ./src/index.js"
+  },
+  "dependencies": {
+    "global": "^4.4.0"
   }
 }
